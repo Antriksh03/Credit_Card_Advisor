@@ -32,9 +32,6 @@ OPENAI_API_KEY=your_actual_key_here
 streamlit run app.py
 ```
 
-## 📁 Notes
+#Notes
 - Your `.env` file is ignored via `.gitignore` to keep your OpenAI key safe.
 - Add your own credit card images to `cards.json` for a better visual experience.
-
-## 🛡️ License
-MIT License
