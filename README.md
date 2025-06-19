@@ -8,7 +8,7 @@ A conversational credit card recommendation tool built using OpenAI and Streamli
 - Simple rule-based recommender engine
 - Mobile-friendly interface
 
-#Getting Started
+# Getting Started
 
 1. **Clone the repository:**
 ```bash
